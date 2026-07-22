@@ -172,12 +172,12 @@
     "community": {
       "label": "Community-Based Setting",
       "description": "Community-based setting",
-      "definition": "The one-day count of infants and toddlers who get their services in a setting where children without disabilities usually go. These places include child care centers, Early Head Start Programs, preschools, and early childhood centers."
+      "definition": "The one-day count of infants and toddlers who get their services in a setting where children without disabilities usually go. Some examples include: child care centers, Early Head Start Programs, preschools, early childhood centers, etc."
     },
     "other": {
       "label": "Other Setting",
       "description": "Other setting",
-      "definition": "The one-day count of infants and toddlers who get their services neither home or community-based places for example, hospitals, therapist office, doctor's office or clinic."
+      "definition": "The one-day count of infants and toddlers who receive services in settings other than the home or community. Some examples include: hospitals, schools, therapist offices, physician offices or clinics, etc."
     },
     "Female": {
       "label": "Female",
@@ -357,39 +357,39 @@
     },
     "ATMTCNTCTUNSCFL": {
       "label": "Attempts to contact unsuccessful",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in special education at the end of the period because attempts to contact the parent and/or child were unsuccessful."
+      "definition": "\"Attempts to contact unsuccessful\" refers to children who were enrolled in the IDEA Part C early intervention program but were exited from the program because attempts to contact the family were unsuccessful"
     },
     "WTHDRWLBYPRNT": {
       "label": "Withdrawal",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in early intervention at the end of the period because the parent (or guardian) withdrew them."
+      "definition": "\"Withdrawal\" refers to children who were enrolled in the IDEA Part C early intervention program but were exited because the child was withdrawn from the program by their parent or guardian"
     },
     "MVDOUTOFSTE": {
       "label": "Moved",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in early intervention at the end of the period because they moved to another state."
+      "definition": "\"Moved\" refers to children who were enrolled in the IDEA Part C early intervention program but were exited because they moved out of their program's area"
     },
     "PTBELIGNTDETOTH": {
       "label": "Not determined",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in early intervention at the end of the period because their eligibility for Part B has not been determined."
+      "definition": "\"Not determined\" refers to children who were enrolled in the IDEA Part C early intervention program and exited the program with their Part B eligibility not determined"
     },
     "NTELIGPTBEXTNRF": {
       "label": "Not Part B eligible, exiting with no referrals",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in early intervention at the end of the period because they were not eligible for Part B and were not referred to any other services."
+      "definition": "\"Not Part B eligible, exiting with no referrals\" refers to children who were enrolled in the IDEA Part C early intervention program and were exited from the program not eligible for Part B preschool education services and with no referrals to any other services"
     },
     "NTELIGPTBEXTRF": {
       "label": "Not Part B eligible, exiting with referrals",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in early intervention at the end of the period because they were not eligible for Part B and were referred to other programs instead."
+      "definition": "\"Not Part B eligible, exiting with referrals\" refers to children who were enrolled in the IDEA Part C early intervention program and were exited from the program not eligible for Part B preschool education services and with a referral to other services"
     },
     "PTBELIGCONTPTC": {
       "label": "Part B eligible, continuing in Part C",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in special education at the end of the period because they became eligible for Part B services but are still continuing in Part C."
+      "definition": "\"Part B eligible, continuing in Part C\" refers to children who reach age 3, qualify for Part B preschool special education services, but whose parents opt to keep them in the IDEA Part C early intervention program instead"
     },
     "PTBELIGEXTPTC": {
       "label": "Part B eligible, exiting Part C",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in early intervention at the end of the period because they became eligible for Part B special education services and exited Part C."
+      "definition": "\"Part B eligible, exiting Part C\" refers to toddlers who reach the age of three and transition/exit from early intervention services to preschool special education"
     },
     "NOLGRELGPTC": {
       "label": "No longer eligible",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in early intervention at the end of the period because they are no longer eligible for Part C services before turning three."
+      "definition": "\"No longer eligible\" refers to children who were enrolled in the IDEA Part C early intervention program but were exited because they were no longer eligible for the program before turning three. "
     },
     "REGASSWOACC": {
       "label": "Regular assessments without accommodations",
@@ -596,8 +596,8 @@
       "definition": "A student with disabilities is removed from their current educational setting to a temporary educational setting for the possession of an illegal drug on school premises."
     },
     "901-D": {
-      "label": "Died",
-      "definition": "The child who was in early intervention at the beginning of the reporting period is no longer in early intervention at the end of the period because they passed away."
+      "label": "Deceased",
+      "definition": "\"Deceased\" refers to children who passed away while they were enrolled in the IDEA Part C early intervention program "
     },
     "GHS": {
       "label": "Graduated with regular high school diploma",
